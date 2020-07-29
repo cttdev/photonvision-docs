@@ -95,7 +95,7 @@ a:hover {
 }
 
 .rst-versions.rst-badge {
-	display: done;
+	display: none !important;
 }
 
 /* Dark mode toggle switch */
